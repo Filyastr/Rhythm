@@ -1148,10 +1148,9 @@ nav {
 }
 
 .hero__img img:last-child {
-  position: absolute;
-  width: 80px;
   bottom: 0;
   margin-bottom: -40px;
+  border-radius: 0 60px;
 }
 
 .btn__get-app {
